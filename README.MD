@@ -11,7 +11,7 @@ Application web moderne de suivi d'habitudes quotidiennes avec interface Dark Mo
 
 ## 📸 Aperçu
 
-![Habit Tracker Screenshot](habit-tracker-2026-two.vercel.app_)
+![Habit Tracker Screenshot](habit-tracker-2026-two.vercel.app_.png)
 
 ---
 
